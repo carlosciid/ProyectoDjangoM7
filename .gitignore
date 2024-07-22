@@ -1,0 +1,57 @@
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__/
+.pytest_cache/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.mo
+*.pyc
+*.so
+*.zip
+*.egg
+*.egg-info
+*.env
+*.venv
+*.coverage
+.coverage.*
+htmlcov/
+.tox/
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+*.prof
+*.sql
+*.sqlite3
+*.db
+db.sqlite3
+local_settings.py
+env/
+venv/
+instance/
+.webassets-cache
+.scrapy
+docs/_build/
+target/
+.DS_Store
+.idea/
+.vscode/
+.envrc
+.env.local
+.env.*.local
+*.env
+*env*.env
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
